@@ -10,7 +10,7 @@ email     development@arcticicestudio.com +
 website   http://arcticicestudio.com      +
 copyright Copyright (C) 2015-2016         +
 created   2015-03-17 14:12 UTC+0100       +
-modified  2016-02-15 08:37 UTC+0200       +
+modified  2016-02-15 08:38 UTC+0200       +
 +++++++++++++++++++++++++++++++++++++++++++
 
 [Description]
@@ -171,4 +171,49 @@ gitflow
 Glacier - Git
   (https://github.com/arcticicestudio/glacier-git)
 -->
-<colorTheme name="Northem Dark - Eclipse Syntax" modified="2015-05-24 11:21:40" author="Arctic Ice Studio"></colorTheme>
+<colorTheme name="Northem Dark - Eclipse Syntax" modified="2015-05-24 11:21:40" author="Arctic Ice Studio">
+    <searchResultIndication color="#5B81AF" />
+    <filteredSearchResultIndication color="#5B81AF" />
+    <occurrenceIndication color="#5B81AF" />
+    <writeOccurrenceIndication color="#5B81AF" />
+    <findScope color="#5B81AF" />
+    <deletionIndication color="#E07473" />
+    <sourceHoverBackground color="#1F1F23" />
+    <singleLineComment color="#4F4F59" italic="false" />
+    <multiLineComment color="#4F4F59" italic="false" />
+    <commentTaskTag color="#85C1D3" italic="false" />
+    <javadoc color="#4F4F59" italic="false" />
+    <javadocLink color="#4F4F59" italic="false" underline="true" strikethrough="false" />
+    <javadocTag color="#85C1D3" italic="true" />
+    <javadocKeyword color="#4F4F59" italic="false" />
+    <class color="#8FCEC8" bold="false" underline="false" strikethrough="false" />
+    <interface color="#8FCEC8" />
+    <method color="#C9CC78" />
+    <methodDeclaration color="#C9CC78" />
+    <bracket color="#DEDEDE" />
+    <number color="#C2A1CA" />
+    <string color="#ECEEEF" />
+    <operator color="#87B2CE" />
+    <keyword color="#87B2CE" bold="false" />
+    <annotation color="#F0A06F" />
+    <staticMethod color="#C9CC78" italic="true" />
+    <localVariable color="#DEDEDE" />
+    <localVariableDeclaration color="#DEDEDE" />
+    <field color="#DEDEDE" />
+    <staticField color="#DEDEDE" italic="true" />
+    <staticFinalField color="#8FCEC8" bold="true" />
+    <deprecatedMember color="#E07473" underline="false" strikethrough="true" />
+    <enum color="#DEDEDE" bold="false" underline="false" strikethrough="false" />
+    <inheritedMethod color="#C9CC78" underline="false" strikethrough="false" />
+    <abstractMethod color="#C9CC78" bold="false" underline="false" strikethrough="false" />
+    <parameterVariable color="#DEDEDE" italic="false" underline="false" strikethrough="false" />
+    <typeArgument color="#8FCEC8" bold="false" />
+    <typeParameter color="#FDCE84" />
+    <constant color="#8FCEC8" bold="true" underline="false" strikethrough="false" />
+    <background color="#242429" />
+    <currentLine color="#29292E" />
+    <foreground color="#DEDEDE" />
+    <lineNumber color="#4F4F59" />
+    <selectionBackground color="#5B81AF" />
+    <selectionForeground color="#DEDEDE" />
+</colorTheme>
