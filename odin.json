@@ -1,10 +1,10 @@
 {
   "id": "northem-dark-eclipse-syntax",
   "name": "Northem Dark - Eclipse Syntax",
-  "version": "",
+  "version": "0.0.0",
   "date": {
    "created": "2015-03-17 14:12 UTC+0100",
-   "updated": ""
+   "updated": "2016-04-15 08:30 UTC+0200"
   },
   "access": "public",
   "modularity": "subproject",
