@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
++++++++++++++++++++++++++++++++++++++++++++
+title     Northem Dark - Eclipse Syntax   +
+project   northem-dark-eclipse-syntax     +
+file      northem-dark-eclipse-syntax.xml +
+version                                   +
+author    Arctic Ice Studio               +
+email     development@arcticicestudio.com +
+website   http://arcticicestudio.com      +
+copyright Copyright (C) 2015-2016         +
+created   2015-03-17 14:12 UTC+0100       +
+modified  2016-02-15 08:37 UTC+0200       +
++++++++++++++++++++++++++++++++++++++++++++
+
+[Description]
+A north-bluish dark theme based on the same named color palette "Northem Dark".
+This is a darker and more blue-tinged variation of the "Northem" color palette.
+
+[Variations]
+  - "Northem - Eclipse Syntax"       (https://github.com/arcticicestudio/northem-eclipse-syntax)
+  - "Northem Light - Eclipse Syntax" (https://github.com/arcticicestudio/northem-light-eclipse-syntax)
+
+[Other Projects]
+  - "Northem Dark - IntelliJ IDEA Syntax" (https://github.com/arcticicestudio/northem-dark-intellij-idea-syntax)
+  - "Northem Dark - Atom Syntax"          (https://github.com/arcticicestudio/northem-dark-atom-syntax)
+  - "Northem Dark - Gedit Syntax"         (https://github.com/arcticicestudio/northem-dark-gedit-syntax)
+  - "Northem Dark - GTK"                  (in drafting)
+  - "Northem Dark - Notepadd++ Syntax"    (https://github.com/arcticicestudio/northem-dark-notepadplusplus-syntax)
+
+Visit the official website http://arcticicestudio.com/northem (currently under construction) for more information.
+
+[Languages / Syntax Highlighting / Editors]
+  - ActionScript
+      (http://www.adobe.com/devnet/actionscript.html)
+    com.adobe.flexide.as.core@4.0.0
+      (http://eclipsecolorthemes.org/?view=empty&action=mapping&plugin=com.adobe.flexide.as.core)
+  - Apache Ant
+      (http://ant.apache.org)
+    org.eclipse.ant.ui@3.5.0
+      (http://eclipsecolorthemes.org/?view=empty&action=mapping&plugin=org.eclipse.ant.ui)
+  - C++
+      (https://isocpp.org)
+    org.eclipse.cdt.ui@7.0.1
+      (http://eclipsecolorthemes.org/?view=empty&action=mapping&plugin=org.eclipse.cdt.ui)
+  - CSS
+      (https://www.w3.org/TR/CSS)
+    org.eclipse.wst.css.ui@1.0.502
+      (http://eclipsecolorthemes.org/?view=empty&action=mapping&plugin=org.eclipse.wst.css.ui)
+  - Groovy
+      (http://www.groovy-lang.org)
+    org.codehaus.groovy.eclipse.ui@*.*.*
+      (http://eclipsecolorthemes.org/?view=empty&action=mapping&plugin=org.codehaus.groovy.eclipse.ui)
+  - HTML
+      (https://www.w3.org/html)
+    org.eclipse.wst.html.ui@1.0.502
+      (http://eclipsecolorthemes.org/?view=empty&action=mapping&plugin=org.eclipse.wst.html.ui)
+  - Java
+      (http://www.oracle.com/technetwork/java/javase/overview/index.html)
+    org.eclipse.jdt.ui@3.6.1
+      (http://eclipsecolorthemes.org/?view=empty&action=mapping&plugin=org.eclipse.jdt.ui)
+  - JavaScript
+      (http://www.ecmascript.org)
+    org.eclipse.wst.jsdt.ui@1.0.502
+      (http://eclipsecolorthemes.org/?view=empty&action=mapping&plugin=org.eclipse.wst.jsdt.ui)
+  - JSP
+      (http://www.oracle.com/technetwork/java/jsp-138432.html)
+    org.eclipse.jst.jsp.ui@*.*.*
+      (http://eclipsecolorthemes.org/?view=empty&action=mapping&plugin=org.eclipse.jst.jsp.ui)
+  - Perl
+      (https://www.perl.org)
+    org.epic.perleditor@0.5.46
+      (http://eclipsecolorthemes.org/?view=empty&action=mapping&plugin=org.epic.perleditor)
+  - PHP
+      (https://php.net)
+    org.eclipse.php.ui@2.2.1
+      (http://eclipsecolorthemes.org/?view=empty&action=mapping&plugin=org.eclipse.php.ui)
+  - Python
+      (https://www.python.org)
+    org.python.pydev@1.6.4
+      (http://eclipsecolorthemes.org/?view=empty&action=mapping&plugin=org.python.pydev)
+  - SCALA
+      (http://www.scala-lang.org)
+    org.scala-ide.scala@2.0.0
+      (http://eclipsecolorthemes.org/?view=empty&action=mapping&plugin=org.scala-ide.scala)
+  - SQL
+      (http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=53681)
+    org.eclipse.datatools.sqltools.sqleditor@1.8.1
+      (http://eclipsecolorthemes.org/?view=empty&action=mapping&plugin=org.eclipse.datatools.sqltools.sqleditor)
+  - XML
+      (https://www.w3.org/TR/2006/REC-xml11-20060816)
+    org.eclipse.wst.xml.ui@1.0.502
+      (http://eclipsecolorthemes.org/?view=empty&action=mapping&plugin=org.eclipse.wst.xml.ui)
+
+[Version]
+- (https://github.com/arcticicestudio/northem-dark-eclipse-syntax/releases/latest)
+
+For older versions check out the GitHub Repository (https://github.com/arcticicestudio/northem-dark-eclipse-syntax)
+and http://arcticicestudio.com/northem (currently under construction).
+
+[Changelog]
+Check out the "CHANGELOG.md" file or visit the GitHub Repository (https://github.com/arcticicestudio/northem-dark-eclipse-syntax)
+and http://arcticicestudio.com/northem (currently under construction).
+
+[Installation]
+Install the required plugin and recommended font, read the "Dependencies"- and "Recommendations" sections for more information.
+
+Go to "Window" > "Preferences", browse to "General" > "Appearance" > "Color Theme" and click on "Import a theme".
+Alternatively you can install it without the plugin by going to "File" > "Import", select "General" > "Preferences" and import the "northem.epf" file.
+
+Activate it by going to "Window" > "Preferences", browse to "General" > "Appearance" > "Color Theme" and select "Northem Dark" from the list.
+
+[Development]
+Workflow
+This project follows the "gitflow" (http://nvie.com/posts/a-successful-git-branching-model) branching model.
+
+Specifications
+This project follows the "Arctic Versioning Specification (ArcVer)" (https://github.com/arcticicestudio/arcver).
+
+[Dependencies]
+This theme requires the plugin "Eclipse Color Theme" (http://eclipsecolorthemes.org/plugin , Update Site: http://eclipse-color-theme.github.io/update)
+when not installed via the preferences file import.
+
+Production
+  Engines
+    - eclipse@4.5.* (https://eclipse.org)
+
+Development
+  - northem-dark@1.0.1 (https://github.com/arcticicestudio/northem-dark)
+
+  Engines
+    - git@2.8.* (https://git-scm.com)
+
+  Skeletons
+    - glacier-git@0.23.0 (https://github.com/arcticicestudio/glacier-git)
+
+[Recommendations]
+This theme matches the Open Source font "Source Code Pro" (https://typekit.com/fonts/source-code-pro).
+Visit the GitHub Repository (https://github.com/adobe-fonts/source-code-pro) for more information.
+
+[Contribution]
+Please report issues/bugs, suggestions for improvements and feature requests to the issuetracker
+at https://github.com/arcticicestudio/northem-dark-eclipse-syntax/issues.
+
+[Author]
+"Northem Dark - Eclipse Syntax" is developed and authored by Arctic Ice Studio.
+
+[Copyright]
+Copyright (C) 2015-2016 Arctic Ice Studio <development@arcticicestudio.com>
+
+[License]
+Northem code is licensed under "GPL 3.0" (http://www.gnu.org/licenses/gpl.txt).
+Northem color palette itself is licensed under "CC BY-SA 4.0" (http://creativecommons.org/licenses/by-sa/4.0).
+
+[Credits]
+"Felix H. Dahlke" (https://twitter.com/fhd) & "Roger Dudler" (https://twitter.com/rogerdudler) for their awesome plugin and theme collection website.
+
+[References]
+Northem
+  (http://github.com/arcticicestudio/northem)
+Eclipse Color Themes
+  (http://eclipsecolorthemes.org)
+Eclipse Documentation
+  (https://eclipse.org/documentation)
+Eclipse Theme API
+  (http://help.eclipse.org/mars/index.jsp?topic=/org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_ui_themes.html)
+Arctic Versioning Specification
+  (http://specs.arcticicestudio.com/arcver) (ArcVer)
+gitflow
+  (http://nvie.com/posts/a-successful-git-branching-model)
+Glacier - Git
+  (https://github.com/arcticicestudio/glacier-git)
+-->
+<colorTheme name="Northem Dark - Eclipse Syntax" modified="2015-05-24 11:21:40" author="Arctic Ice Studio"></colorTheme>
