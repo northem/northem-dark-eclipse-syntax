@@ -4,7 +4,7 @@
 title     Northem Dark - Eclipse Syntax   +
 project   northem-dark-eclipse-syntax     +
 file      northem-dark-eclipse-syntax.xml +
-version                                   +
+version   0.1.0                           +
 author    Arctic Ice Studio               +
 email     development@arcticicestudio.com +
 website   http://arcticicestudio.com      +
@@ -93,7 +93,7 @@ Visit the official website http://arcticicestudio.com/northem (currently under c
       (http://eclipsecolorthemes.org/?view=empty&action=mapping&plugin=org.eclipse.wst.xml.ui)
 
 [Version]
-- (https://github.com/arcticicestudio/northem-dark-eclipse-syntax/releases/latest)
+0.1.0 (https://github.com/arcticicestudio/northem-dark-eclipse-syntax/releases/latest)
 
 For older versions check out the GitHub Repository (https://github.com/arcticicestudio/northem-dark-eclipse-syntax)
 and http://arcticicestudio.com/northem (currently under construction).
