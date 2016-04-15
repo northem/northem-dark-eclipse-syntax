@@ -57,12 +57,12 @@ Visit the [official website](http://arcticicestudio.com/northem) (currently unde
   [`org.eclipse.wst.xml.ui@1.0.502`](http://eclipsecolorthemes.org/?view=empty&action=mapping&plugin=org.eclipse.wst.xml.ui)
 
 ### Version
-[`-`](https://github.com/arcticicestudio/northem-dark-eclipse-syntax/releases/latest)  
+[`0.0.0`](https://github.com/arcticicestudio/northem-dark-eclipse-syntax/releases/latest)  
 
 For older versions check out the [GitHub Repository](https://github.com/arcticicestudio/northem-dark-eclipse-syntax) or [official website](http://arcticicestudio.com/northem) (currently under construction).
 
 ### Changelog
-[`-`](CHANGELOG.md)
+[`0.0.0`](CHANGELOG.md)
 
 ### Installation
 Install the required plugin and recommended font, read the [Dependencies](#Dependencies)- and [Recommendations](#Recommendations) sections for more information.
